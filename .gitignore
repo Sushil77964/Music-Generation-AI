@@ -5,3 +5,5 @@ __pycache__/
 models/*.keras
 models/*.h5
 output/*.mid
+generated_music.wav
+output/
