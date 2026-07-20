@@ -105,6 +105,28 @@ Relaxing lo-fi music for studying
 
 # 📸 Screenshots
 
+## Home Screen
+
+![Home](assets/home.png)
+
+---
+
+## Prompt Example
+
+![Prompt](assets/prompt.png)
+
+---
+
+## Generated Music
+
+![Generated](assets/generated.png)
+
+---
+
+## Live Demo
+
+![Live Demo](assets/live-demo.png)
+
 > Add screenshots of your Streamlit application here.
 
 Suggested screenshots:
