@@ -1,5 +1,17 @@
 # 🎵 Music Generation AI
+## 🌐 Live Demo
 
+Try the application here:
+
+**🔗 https://music-generation-ai-sushil.streamlit.app/
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+---
 An AI-powered Music Generation application built using **Meta MusicGen**, **Hugging Face Transformers**, **PyTorch**, and **Streamlit**.
 
 This project generates original music from natural language prompts such as:
